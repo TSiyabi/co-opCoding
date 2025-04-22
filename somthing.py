@@ -1,7 +1,7 @@
 import time
 import turtle
-input("this code does somthing wanna see it? yes/no: ")
-if input() == "yes":
+x = input("this code does somthing wanna see it? yes/no: ")
+if x == "yes":
     print("ok here it is")
     time.sleep(5)
     print("so why are you still here?")
