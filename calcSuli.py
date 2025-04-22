@@ -20,7 +20,7 @@ strike = 0
 num1 = input("input the first number or else: \n")
 
 while not num1.isnumeric():
-    num1 = input("I SAID PUT A NUMBER!!!!!!!!!: \n")
+    num1 = input("I SAID PUT A NUMBER!!!!!!!!!!!: \n")
     strike += 1
 
 num2 = input("now don't you play with me, if I don't see a second number, I promise I will rip out your soul \n or you could type 'f' for factorial or 'a' for absolute value of your first number:) : \n")
