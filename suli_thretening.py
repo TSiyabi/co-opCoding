@@ -1,1 +1,0 @@
-print("(whispering in your ear)I am holding you at gunpoint tariq")
