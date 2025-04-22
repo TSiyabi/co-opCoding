@@ -43,8 +43,8 @@ else:
         if strike >= 3:
             print("that is it, I AM GONNA DESTROY YOUR LAPTOP NOW!!!! \n you have 10 seconds to say bye to your laptop\n")
             time.sleep(10)
-            print("THIS IS WHAT YOU GET!!!!!! \n" * 1000)
-            break
+            while True:
+                print("THIS IS WHAT YOU GET!!!!!!")
         else:
             operation = input("don't you play with me, IT'S A SIMPLE CHOICE!!!!\n +, -, *, /, POWER(in small letters of course), OR, AND, or XOR!!!!!!!! :\n")
 
