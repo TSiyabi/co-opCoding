@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-country = input("what is your country of origin? ")
-print("your country of origin is " + country)
-=======
-skills = input("Kindly list your key skills (separated by commas): ")
-
-# Process the input
-skill_list = [skill.strip() for skill in skills.split(',')]
-
-print("\nThank you for sharing your skills.")
 print("hello world")
 x = input("give me the password please\n3 chances before the most wanted hitman shoots you in the head\nand replaces you with a skin walker\ngood luck:")
 print(x)
@@ -26,5 +16,4 @@ print("Have a great day!")
 a = input("Enter ur address: ")
 print(a)
 
-print("OOOO")
->>>>>>> 6c7e0b1708b6d04b57f7b6a0488333f85419f9f2
+print("OOOOOOOOOOOOOOO")
