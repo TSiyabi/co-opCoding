@@ -1,8 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 status = input("single or married")
 print("your status is" + status)
 =======
+=======
+country = input("what is your country of origin? ")
+print("your country of origin is " + country)
+>>>>>>> 07c72033d2a598dff578c82adbf00eff0b1e1d58
 =======
 skills = input("Kindly list your key skills (separated by commas): ")
 
@@ -31,6 +36,9 @@ print(a)
 
 print("OOOO")
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 93c71a30ec6ef3aedfe02fc7d7d19e6564daa428
 =======
+=======
+>>>>>>> 07c72033d2a598dff578c82adbf00eff0b1e1d58
 >>>>>>> 6c7e0b1708b6d04b57f7b6a0488333f85419f9f2
