@@ -1,4 +1,6 @@
 import math
+
+print("click on the suli version if you want a better calculator, Trust")
 x =input("write your first number here: " )
 y = input("write your second number here or leave it blank for some match functions: " )
 z = input("what do you want to do? +, -, *, /, power, factorial, abs for absolute, OR for bitwise OR, AND for bitwise AND, XOR for bitwise XOR: ")
